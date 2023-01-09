@@ -1,6 +1,5 @@
 <h2>🐣Nyoung🐣</h2>
-  <h3>🍎Velog</h3>  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=int j = 0;)](https://velog.io/@byeoneunyoung)
+  <h3>🍎Velog</h3>  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=byeoneunyoung)](https://velog.io/@byeoneunyoung)
   
 
 <h2>📒Studing📒</h2>
