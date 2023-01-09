@@ -1,6 +1,6 @@
 <a>🐣Nyoung🐣
 <br/>
-  
+  🍎Nyoung's Velog: https://velog.io/@byeoneunyoung
 </a>
 
 
