@@ -1,6 +1,5 @@
 <h2>🐣Nyoung🐣</h2>
-  <h3>🍎Velog</h3> #20C997
-  <a href="https://velog.io/@byeoneunyoung"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <b>🍎Velog</b> <a href="https://velog.io/@byeoneunyoung"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 
 
