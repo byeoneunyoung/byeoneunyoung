@@ -11,7 +11,7 @@
 
 
 <h3>✨BOJ✨</h3>
-  <br/>
+  
 [![Solved.ac/profile/wyu2341](http://mazassumnida.wtf/api/mini/generate_badge?boj=wyu2341)](https://solved.ac/wyu2341)
 
 ![Solved.ac/profile/wyu2341](http://mazandi.herokuapp.com/api?handle=wyu2341&theme=warm)
