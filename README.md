@@ -40,11 +40,12 @@ ___
 
 <h4>👩🏻‍💻 Skills </h4>
 
-<img src="https://img.shields.io/badge/C++-0067A3?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-81C147?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-0067A3?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-81C147?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  
 
 ___
 <h4>📚Studying </h4>
 
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 ___
 <h4>🌳I want to be ,,,</h4>  
