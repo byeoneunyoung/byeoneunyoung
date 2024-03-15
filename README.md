@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header)
-
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header)
 <h4>🖐🏻 Hi, I'm Byeon Eunyoung </h4>
 
 
