@@ -12,7 +12,7 @@ ___
 <h4>🚀 My GitHub</h4>
 
 
-[![euNyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeoneunyoung)](https://github.com/byeoneunyoung/github-readme-stats)&count_private=true&show_icons=true&&theme=tokyonight
+[![euNyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeoneunyoung)&count_private=true&show_icons=true&&theme=tokyonight](https://github.com/byeoneunyoung/github-readme-stats)
 ___
 
 
