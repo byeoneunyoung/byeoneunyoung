@@ -12,8 +12,7 @@ ___
 <h4>🚀 My GitHub</h4>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoneunyoung)](https://github.com/byeoneunyoung/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=byeoneunyoung&count_private=true&show_icons=true&theme=solarized)
-
+https://github-readme-stats.vercel.app/api?username=byeoneunyoung)&hide=stars,contribs&count_private=true
 
 ___
 
