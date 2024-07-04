@@ -16,7 +16,7 @@ ___
 ___
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/byeoneunyoung?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/byeoneunyoung"/>
 </a>
 
 <h4>🏆Awards and Hornor </h4>
