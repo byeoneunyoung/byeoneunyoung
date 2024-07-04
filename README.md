@@ -15,6 +15,9 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoneunyoung&layout=compact&theme=dracula)
 ___
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/byeoneunyoung?pet-id=1" width="1000" height="120"/>
+</a>
 
 <h4>🏆Awards and Hornor </h4>
 
