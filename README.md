@@ -11,7 +11,7 @@
 ___
 <h4>🚀 My GitHub</h4>
 
-![euNyoung's GitHub stats]([https://github-readme-stats.vercel.app/api?username=byeoneunyoung)
+[![euNyoung's GitHub stats]([https://github-readme-stats.vercel.app/api?username=byeoneunyoung)](https://github.com/byeoneunyoung/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoneunyoung&layout=compact&theme=dracula)
 ___
 
