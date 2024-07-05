@@ -7,8 +7,7 @@
    
   - 📚 reading, 🤸🏻‍♀️ work out, 🍳 cooking
 
-  - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeoneunyoung&count_bg=%238CBEEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-___
+ ___
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/byeoneunyoung"/>
@@ -48,6 +47,9 @@ ___
 
 <h6>🎒 Backend Engineer</h6>
 <h6>☁️ Cloud Engineer</h6>
+
+___
+ - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeoneunyoung&count_bg=%238CBEEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=footer)
 
