@@ -8,7 +8,6 @@
   - 📚 reading, 🤸🏻‍♀️ work out, 🍳 cooking
 
  ___
-!(https://github-readme-stats.vercel.app/api?username=byeoneunyoung&hide=stars,contribs&count_private=true)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/byeoneunyoung"/>
