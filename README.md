@@ -9,11 +9,6 @@
 
   - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeoneunyoung&count_bg=%238CBEEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ___
-<h4>🚀 My GitHub</h4>
-
-![euNyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeoneunyoung&count_private=true&theme=tokyonight&random=1234)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeoneunyoung&layout=compact&theme=dracula)
-___
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/byeoneunyoung"/>
